@@ -1,7 +1,5 @@
 Hi, my name is Nils<br>Welcome to my GitHub Account<br>I'm currently working on a Discord-Bot with my Friend Zockerp<br>
 
-https://raw.githubusercontent.com/Heliumdioxid/Heliumdioxid/master/discord.svg Discord - MrFastplace#6194
-
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/MrFastplace) 
 
