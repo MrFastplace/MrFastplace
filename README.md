@@ -1,5 +1,6 @@
-# 💫 About Me:
 Hi, my name is Nils<br>Welcome to my GitHub Account<br>I'm currently working on a Discord-Bot with my Friend Zockerp<br>
+
+ Discord - MrFastplace#6194
 
 
 ## 🌐 Socials:
