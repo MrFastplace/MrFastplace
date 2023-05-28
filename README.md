@@ -1,4 +1,4 @@
-Hi, my name is Nils<br>Welcome to my GitHub Account<br>I'm currently working on a Discord-Bot with my Friend Zockerp<br>
+Hi, my name is Nils<br>Welcome to my GitHub Account<br>
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/MrFastplace) 
